@@ -22,6 +22,27 @@ Guidance for assemblable parts is a promising field for the use of augmented rea
     <em>GBOT presentation</em>
 </p>
 </a>
+## Model download links
+To make the results reproducable, all the models used in GBOT dataset can be downloaded and 3D printed.
+
+LiftPod - Multipurpose Foldable Stand
+https://www.thingiverse.com/thing:4614448
+
+Nano Chuck by PRIma
+https://www.thingiverse.com/thing:5178901
+imported in Blender and scaled up by factor 2
+
+Hand-Screw Clamp
+https://www.thingiverse.com/thing:2403756
+imported in Blender and scaled up by factor 2
+
+Geared Caliper 
+https://www.thingiverse.com/thing:3006884/files
+Geared Caliper Parts
+
+Hobby Corner Clamp / Angle Presser Vice Fully 3D Printable
+https://www.thingiverse.com/thing:1024366
+imported in Blender and scaled up by factor 1.2
 
 ## GBOT dataset
 [Training data - Part 1](https://zenodo.org/records/10710192)
