@@ -22,7 +22,9 @@ Guidance for assemblable parts is a promising field for the use of augmented rea
     <em>GBOT presentation</em>
 </p>
 </a>
+
 ## Model download links
+
 To make the results reproducable, all the models used in GBOT dataset can be downloaded and 3D printed.
 
 LiftPod - Multipurpose Foldable Stand
