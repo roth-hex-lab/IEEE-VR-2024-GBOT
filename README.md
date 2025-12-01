@@ -40,7 +40,6 @@ imported in Blender and scaled up by factor 2
 
 Geared Caliper 
 https://www.thingiverse.com/thing:3006884/files
-Geared Caliper Parts
 
 Hobby Corner Clamp / Angle Presser Vice Fully 3D Printable
 https://www.thingiverse.com/thing:1024366
